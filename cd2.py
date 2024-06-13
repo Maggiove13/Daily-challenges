@@ -3,7 +3,7 @@
 
 # Pedir al usuario que ingrese un numero
 numero_user = int(input("Ingrese un numero aleatorio de 1 al 9: "))
-print(f"El numero elegido para la tabla: {numero_user}")
+print(f"El numero elegido para la tabla es: {numero_user}")
 
 #Iterar los numeros en un rango de 10 y que inicie desde 1
 for nros in range(1,11):
